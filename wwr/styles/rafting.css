@@ -17,8 +17,8 @@ h2 {
 }
 
 p {
-    border: 20px;
-    margin: 1px solid black;
+    margin: 20px;
+    padding: 1px solid black;
 }
 
 a {
@@ -42,4 +42,9 @@ article {
 
 article img {
     float: right;
+}
+
+header {
+    background-color: var(--primary-color);
+    border: 40 px;
 }
