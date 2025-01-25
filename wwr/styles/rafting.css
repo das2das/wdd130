@@ -1,0 +1,36 @@
+:root {
+    --primary-color: #708090;
+    --secondary-color: #4f3f1c;
+    --accent1-color: #323940;
+    --accent2-color: #a88332;
+}
+
+h1 {
+    background-color: var(--secondary-color);
+    padding: 4rem;
+}
+
+h2 {
+    background-color: var(--secondary-color);
+    padding: 2rem;
+}
+
+p {
+    border: 20px;
+    margin: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
