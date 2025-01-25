@@ -6,6 +6,7 @@
 }
 
 h1 {
+    position: absolute;
     background-color: var(--secondary-color);
     padding: 4rem;
 }
@@ -33,4 +34,12 @@ a {
 img {
     width: 100px;
     height: auto;
+}
+
+article {
+    position: absolute;
+}
+
+article img {
+    float: right;
 }
